@@ -1,7 +1,5 @@
 # 产品文档
 
-## [点击打开在线体验](http://129.211.59.74)
-
 ## 目前进度
 
 ![simple_architecture](docs/current_progress/2020-03-29_19-06/1.png)
